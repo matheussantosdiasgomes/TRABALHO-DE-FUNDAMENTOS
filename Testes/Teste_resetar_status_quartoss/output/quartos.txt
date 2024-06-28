@@ -1,8 +1,0 @@
-101
-2
-150.00
-desocupado
-102
-3
-200.00
-desocupado
