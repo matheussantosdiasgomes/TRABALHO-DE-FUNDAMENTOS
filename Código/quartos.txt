@@ -1,0 +1,7 @@
+101 2 70.00 ocupado
+102 2 70.00 ocupado
+201 3 150.00 ocupado
+202 3 180.00 desocupado
+301 6 250.00 ocupado
+302 6 500.00 ocupado
+505 5 200.00 desocupado

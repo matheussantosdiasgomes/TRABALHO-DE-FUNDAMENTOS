@@ -1,0 +1,26 @@
+6
+1
+Ana Clara
+31 00000-0000
+Atendente
+2000.000000
+2
+Matheus
+31 44444-4444
+Chef de cozinha
+3000.000000
+3
+Igor
+31 22222-2222
+Atendente
+2000.000000
+4
+Antonio
+31 98888-8888
+Recepcionista
+3000.000000
+5
+Sergio
+31 98888-8888
+Recepcionista
+3000.000000

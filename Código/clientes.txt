@@ -1,0 +1,25 @@
+7
+1
+Bernardo
+Rua 123, Belo Horizonte
+31 99999-9999
+2
+Ana Clara
+Rua XYZ, Rio de Janeiro
+21 88888-8888
+3
+Pedro
+Rua ABC, Belo Horizonte
+31 11111-1111
+4
+Fernando
+Rua 456, Belo Horizonte
+31 55555-5555
+5
+Julio
+Rua Qwerty, Belo Horizonte
+31 99999-9999
+6
+Marcos
+Rua Tatu, Belo Horizonte
+31 99999-9999
